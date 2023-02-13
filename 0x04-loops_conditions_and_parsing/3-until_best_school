@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# a shell script used to print Best School ten times using until loop
+i=0
+until [ $i -eq 10 ]
+do
+	echo "Best School"
+	((i++))
+done
