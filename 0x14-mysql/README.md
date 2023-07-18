@@ -1,1 +1,1 @@
-sql configration 
+sql configuration 
